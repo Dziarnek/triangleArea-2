@@ -1,6 +1,5 @@
 function getTriangleArea(a, h) {
-    triangleArea = a*h/2;
-    return triangleArea;
+    return a*h/2;
 };
 
 function setValue(value) {
